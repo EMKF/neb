@@ -2,7 +2,7 @@ import os
 import shutil
 import joblib
 import pandas as pd
-import constants as c
+from tools import constants as c
 from scipy.stats.mstats import gmean
 from kauffman.data import bfs, bds, pep
 
@@ -116,12 +116,12 @@ def index(df, region):
         'velocity': {
             'polarity': 'neg',
             'delta': (df_ref['velocity'].max() - df_ref['velocity'].min()) / 2,
-            'ref': df_ref.query('time == "2005"')['velocity'].mean()
+            'ref': df_ref.query('time == 2005')['velocity'].mean()
         },
         'actualization': {
             'polarity': 'pos',
             'delta': (df_ref['actualization'].max() - df_ref['actualization'].min()) / 2,
-            'ref': df_ref.query('time == "2005"')['actualization'].mean()
+            'ref': df_ref.query('time == 2005')['actualization'].mean()
         },
     }
 
@@ -245,6 +245,6 @@ def neb_data_create_all(raw_data_fetch, raw_data_remove, aws_filepath=None):
 if __name__ == '__main__':
     neb_data_create_all(
         raw_data_fetch=False,
-        raw_data_remove=True,
-        aws_filepath='s3://emkf.data.research/indicators/neb/data_outputs'
+        raw_data_remove=True
+        #aws_filepath='s3://emkf.data.research/indicators/neb/data_outputs'
     )
