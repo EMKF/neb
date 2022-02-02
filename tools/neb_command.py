@@ -104,7 +104,7 @@ def _aggregator(df, index_vars):
 
 
 def index(df, region):
-    reference_year = 2016  # minimum of last year of velocity or actualization
+    reference_year = 2017  # minimum of last year of velocity or actualization
 
     if region == 'state':
         df.\
