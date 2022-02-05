@@ -1,20 +1,19 @@
-fips,region,time,bf_march_shift
-00,United States,2004,
-00,United States,2005,
-00,United States,2006,514839.0
-00,United States,2007,442327.0
-00,United States,2008,396041.0
-00,United States,2009,328848.0
-00,United States,2010,319122.0
-00,United States,2011,326147.0
-00,United States,2012,323550.0
-00,United States,2013,329987.0
-00,United States,2014,336436.0
-00,United States,2015,344655.0
-00,United States,2016,346225.0
-00,United States,2017,349343.0
-00,United States,2018,370757.0
-00,United States,2019,382779.0
-00,United States,2020,369525.0
-00,United States,2021,
-00,United States,2022,
+fips,region,naics,industry,time,bf_march_shift
+00,U.S. Total,00,Total for All NAICS,2005,
+00,U.S. Total,00,Total for All NAICS,2006,478635.0
+00,U.S. Total,00,Total for All NAICS,2007,435247.0
+00,U.S. Total,00,Total for All NAICS,2008,391789.0
+00,U.S. Total,00,Total for All NAICS,2009,325375.0
+00,U.S. Total,00,Total for All NAICS,2010,316089.0
+00,U.S. Total,00,Total for All NAICS,2011,322585.0
+00,U.S. Total,00,Total for All NAICS,2012,319909.0
+00,U.S. Total,00,Total for All NAICS,2013,326089.0
+00,U.S. Total,00,Total for All NAICS,2014,332496.0
+00,U.S. Total,00,Total for All NAICS,2015,340699.0
+00,U.S. Total,00,Total for All NAICS,2016,342642.0
+00,U.S. Total,00,Total for All NAICS,2017,341666.0
+00,U.S. Total,00,Total for All NAICS,2018,354337.0
+00,U.S. Total,00,Total for All NAICS,2019,371404.0
+00,U.S. Total,00,Total for All NAICS,2020,359015.0
+00,U.S. Total,00,Total for All NAICS,2021,434420.0
+00,U.S. Total,00,Total for All NAICS,2022,
