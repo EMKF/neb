@@ -87,7 +87,6 @@ fips,region,time,population
 01,Alabama,1997,4320281
 01,Alabama,1998,4351037
 01,Alabama,1999,4369862
-01,Alabama,2020,4921532
 01,Alabama,2000,4452173
 01,Alabama,2001,4467634
 01,Alabama,2002,4480089
@@ -108,6 +107,8 @@ fips,region,time,population
 01,Alabama,2017,4874486
 01,Alabama,2018,4887681
 01,Alabama,2019,4903185
+01,Alabama,2020,4921532
+01,Alabama,2021,5039877
 02,Alaska,1950,135000
 02,Alaska,1951,158000
 02,Alaska,1952,189000
@@ -158,7 +159,6 @@ fips,region,time,population
 02,Alaska,1997,608846
 02,Alaska,1998,615205
 02,Alaska,1999,619500
-02,Alaska,2020,731158
 02,Alaska,2000,627963
 02,Alaska,2001,633714
 02,Alaska,2002,642337
@@ -179,6 +179,8 @@ fips,region,time,population
 02,Alaska,2017,739700
 02,Alaska,2018,735139
 02,Alaska,2019,731545
+02,Alaska,2020,731158
+02,Alaska,2021,732673
 04,Arizona,1900,124000
 04,Arizona,1901,131000
 04,Arizona,1902,138000
@@ -279,7 +281,6 @@ fips,region,time,population
 04,Arizona,1997,4552207
 04,Arizona,1998,4667277
 04,Arizona,1999,4778332
-04,Arizona,2020,7421401
 04,Arizona,2000,5160586
 04,Arizona,2001,5273477
 04,Arizona,2002,5396255
@@ -300,6 +301,8 @@ fips,region,time,population
 04,Arizona,2017,7044008
 04,Arizona,2018,7158024
 04,Arizona,2019,7278717
+04,Arizona,2020,7421401
+04,Arizona,2021,7276316
 05,Arkansas,1900,1314000
 05,Arkansas,1901,1341000
 05,Arkansas,1902,1360000
@@ -400,7 +403,6 @@ fips,region,time,population
 05,Arkansas,1997,2524007
 05,Arkansas,1998,2538202
 05,Arkansas,1999,2551373
-05,Arkansas,2020,3030522
 05,Arkansas,2000,2678588
 05,Arkansas,2001,2691571
 05,Arkansas,2002,2705927
@@ -421,6 +423,8 @@ fips,region,time,population
 05,Arkansas,2017,3001345
 05,Arkansas,2018,3009733
 05,Arkansas,2019,3017804
+05,Arkansas,2020,3030522
+05,Arkansas,2021,3025891
 06,California,1900,1490000
 06,California,1901,1550000
 06,California,1902,1623000
@@ -521,7 +525,6 @@ fips,region,time,population
 06,California,1997,32217708
 06,California,1998,32682794
 06,California,1999,33145121
-06,California,2020,39368078
 06,California,2000,33987977
 06,California,2001,34479458
 06,California,2002,34871843
@@ -542,6 +545,8 @@ fips,region,time,population
 06,California,2017,39358497
 06,California,2018,39461588
 06,California,2019,39512223
+06,California,2020,39368078
+06,California,2021,39237836
 08,Colorado,1900,543000
 08,Colorado,1901,581000
 08,Colorado,1902,621000
@@ -642,7 +647,6 @@ fips,region,time,population
 08,Colorado,1997,3891293
 08,Colorado,1998,3968967
 08,Colorado,1999,4056133
-08,Colorado,2020,5807719
 08,Colorado,2000,4326921
 08,Colorado,2001,4425687
 08,Colorado,2002,4490406
@@ -663,6 +667,8 @@ fips,region,time,population
 08,Colorado,2017,5611885
 08,Colorado,2018,5691287
 08,Colorado,2019,5758736
+08,Colorado,2020,5807719
+08,Colorado,2021,5812069
 09,Connecticut,1900,910000
 09,Connecticut,1901,931000
 09,Connecticut,1902,952000
@@ -763,7 +769,6 @@ fips,region,time,population
 09,Connecticut,1997,3268514
 09,Connecticut,1998,3272563
 09,Connecticut,1999,3282031
-09,Connecticut,2020,3557006
 09,Connecticut,2000,3411777
 09,Connecticut,2001,3432835
 09,Connecticut,2002,3458749
@@ -784,6 +789,8 @@ fips,region,time,population
 09,Connecticut,2017,3573297
 09,Connecticut,2018,3571520
 09,Connecticut,2019,3565287
+09,Connecticut,2020,3557006
+09,Connecticut,2021,3605597
 10,Delaware,1900,185000
 10,Delaware,1901,187000
 10,Delaware,1902,188000
@@ -884,7 +891,6 @@ fips,region,time,population
 10,Delaware,1997,735024
 10,Delaware,1998,744066
 10,Delaware,1999,753538
-10,Delaware,2020,986809
 10,Delaware,2000,786373
 10,Delaware,2001,795699
 10,Delaware,2002,806169
@@ -905,6 +911,8 @@ fips,region,time,population
 10,Delaware,2017,956823
 10,Delaware,2018,965479
 10,Delaware,2019,973764
+10,Delaware,2020,986809
+10,Delaware,2021,1003384
 11,District of Columbia,1900,278000
 11,District of Columbia,1901,285000
 11,District of Columbia,1902,290000
@@ -1005,7 +1013,6 @@ fips,region,time,population
 11,District of Columbia,1997,528752
 11,District of Columbia,1998,521426
 11,District of Columbia,1999,519000
-11,District of Columbia,2020,712816
 11,District of Columbia,2000,572046
 11,District of Columbia,2001,574504
 11,District of Columbia,2002,573158
@@ -1026,6 +1033,8 @@ fips,region,time,population
 11,District of Columbia,2017,694906
 11,District of Columbia,2018,701547
 11,District of Columbia,2019,705749
+11,District of Columbia,2020,712816
+11,District of Columbia,2021,670050
 12,Florida,1900,530000
 12,Florida,1901,544000
 12,Florida,1902,565000
@@ -1126,7 +1135,6 @@ fips,region,time,population
 12,Florida,1997,14683350
 12,Florida,1998,14908230
 12,Florida,1999,15111244
-12,Florida,2020,21733312
 12,Florida,2000,16047515
 12,Florida,2001,16356966
 12,Florida,2002,16689370
@@ -1147,6 +1155,8 @@ fips,region,time,population
 12,Florida,2017,20963613
 12,Florida,2018,21244317
 12,Florida,2019,21477737
+12,Florida,2020,21733312
+12,Florida,2021,21781128
 13,Georgia,1900,2220000
 13,Georgia,1901,2263000
 13,Georgia,1902,2305000
@@ -1247,7 +1257,6 @@ fips,region,time,population
 13,Georgia,1997,7486094
 13,Georgia,1998,7636522
 13,Georgia,1999,7788240
-13,Georgia,2020,10710017
 13,Georgia,2000,8227303
 13,Georgia,2001,8377038
 13,Georgia,2002,8508256
@@ -1268,6 +1277,8 @@ fips,region,time,population
 13,Georgia,2017,10410330
 13,Georgia,2018,10511131
 13,Georgia,2019,10617423
+13,Georgia,2020,10710017
+13,Georgia,2021,10799566
 15,Hawaii,1950,498000
 15,Hawaii,1951,514000
 15,Hawaii,1952,517000
@@ -1318,7 +1329,6 @@ fips,region,time,population
 15,Hawaii,1997,1189322
 15,Hawaii,1998,1190472
 15,Hawaii,1999,1185497
-15,Hawaii,2020,1407006
 15,Hawaii,2000,1213519
 15,Hawaii,2001,1225948
 15,Hawaii,2002,1239613
@@ -1339,6 +1349,8 @@ fips,region,time,population
 15,Hawaii,2017,1424393
 15,Hawaii,2018,1420593
 15,Hawaii,2019,1415872
+15,Hawaii,2020,1407006
+15,Hawaii,2021,1441553
 16,Idaho,1900,163000
 16,Idaho,1901,176000
 16,Idaho,1902,199000
@@ -1439,7 +1451,6 @@ fips,region,time,population
 16,Idaho,1997,1210638
 16,Idaho,1998,1230923
 16,Idaho,1999,1251700
-16,Idaho,2020,1826913
 16,Idaho,2000,1299430
 16,Idaho,2001,1319962
 16,Idaho,2002,1340372
@@ -1460,6 +1471,8 @@ fips,region,time,population
 16,Idaho,2017,1717715
 16,Idaho,2018,1750536
 16,Idaho,2019,1787065
+16,Idaho,2020,1826913
+16,Idaho,2021,1900923
 17,Illinois,1900,4828000
 17,Illinois,1901,4914000
 17,Illinois,1902,4992000
@@ -1560,7 +1573,6 @@ fips,region,time,population
 17,Illinois,1997,12011509
 17,Illinois,1998,12069774
 17,Illinois,1999,12128370
-17,Illinois,2020,12587530
 17,Illinois,2000,12434161
 17,Illinois,2001,12488445
 17,Illinois,2002,12525556
@@ -1581,6 +1593,8 @@ fips,region,time,population
 17,Illinois,2017,12778828
 17,Illinois,2018,12723071
 17,Illinois,2019,12671821
+17,Illinois,2020,12587530
+17,Illinois,2021,12671469
 18,Indiana,1900,2518000
 18,Indiana,1901,2541000
 18,Indiana,1902,2567000
@@ -1681,7 +1695,6 @@ fips,region,time,population
 18,Indiana,1997,5872370
 18,Indiana,1998,5907617
 18,Indiana,1999,5942901
-18,Indiana,2020,6754953
 18,Indiana,2000,6091866
 18,Indiana,2001,6127760
 18,Indiana,2002,6155967
@@ -1702,6 +1715,8 @@ fips,region,time,population
 18,Indiana,2017,6658078
 18,Indiana,2018,6695497
 18,Indiana,2019,6732219
+18,Indiana,2020,6754953
+18,Indiana,2021,6805985
 19,Iowa,1900,2231000
 19,Iowa,1901,2227000
 19,Iowa,1902,2222000
@@ -1802,7 +1817,6 @@ fips,region,time,population
 19,Iowa,1997,2854396
 19,Iowa,1998,2861025
 19,Iowa,1999,2869413
-19,Iowa,2020,3163561
 19,Iowa,2000,2929067
 19,Iowa,2001,2931997
 19,Iowa,2002,2934234
@@ -1823,6 +1837,8 @@ fips,region,time,population
 19,Iowa,2017,3141550
 19,Iowa,2018,3148618
 19,Iowa,2019,3155070
+19,Iowa,2020,3163561
+19,Iowa,2021,3193079
 20,Kansas,1900,1473000
 20,Kansas,1901,1490000
 20,Kansas,1902,1505000
@@ -1923,7 +1939,6 @@ fips,region,time,population
 20,Kansas,1997,2616339
 20,Kansas,1998,2638667
 20,Kansas,1999,2654052
-20,Kansas,2020,2913805
 20,Kansas,2000,2693681
 20,Kansas,2001,2702162
 20,Kansas,2002,2713535
@@ -1944,6 +1959,8 @@ fips,region,time,population
 20,Kansas,2017,2908718
 20,Kansas,2018,2911359
 20,Kansas,2019,2913314
+20,Kansas,2020,2913805
+20,Kansas,2021,2934582
 21,Kentucky,1900,2148000
 21,Kentucky,1901,2162000
 21,Kentucky,1902,2177000
@@ -2044,7 +2061,6 @@ fips,region,time,population
 21,Kentucky,1997,3907816
 21,Kentucky,1998,3934310
 21,Kentucky,1999,3960825
-21,Kentucky,2020,4477251
 21,Kentucky,2000,4049021
 21,Kentucky,2001,4068132
 21,Kentucky,2002,4089875
@@ -2065,6 +2081,8 @@ fips,region,time,population
 21,Kentucky,2017,4452268
 21,Kentucky,2018,4461153
 21,Kentucky,2019,4467673
+21,Kentucky,2020,4477251
+21,Kentucky,2021,4509394
 22,Louisiana,1900,1384000
 22,Louisiana,1901,1412000
 22,Louisiana,1902,1440000
@@ -2165,7 +2183,6 @@ fips,region,time,population
 22,Louisiana,1997,4351390
 22,Louisiana,1998,4362758
 22,Louisiana,1999,4372035
-22,Louisiana,2020,4645318
 22,Louisiana,2000,4471885
 22,Louisiana,2001,4477875
 22,Louisiana,2002,4497267
@@ -2186,6 +2203,8 @@ fips,region,time,population
 22,Louisiana,2017,4670560
 22,Louisiana,2018,4659690
 22,Louisiana,2019,4648794
+22,Louisiana,2020,4645318
+22,Louisiana,2021,4624047
 23,Maine,1900,695000
 23,Maine,1901,699000
 23,Maine,1902,703000
@@ -2286,7 +2305,6 @@ fips,region,time,population
 23,Maine,1997,1245215
 23,Maine,1998,1247554
 23,Maine,1999,1253040
-23,Maine,2020,1350141
 23,Maine,2000,1277072
 23,Maine,2001,1285692
 23,Maine,2002,1295960
@@ -2307,6 +2325,8 @@ fips,region,time,population
 23,Maine,2017,1334612
 23,Maine,2018,1339057
 23,Maine,2019,1344212
+23,Maine,2020,1350141
+23,Maine,2021,1372247
 24,Maryland,1900,1189000
 24,Maryland,1901,1200000
 24,Maryland,1902,1210000
@@ -2407,7 +2427,6 @@ fips,region,time,population
 24,Maryland,1997,5092914
 24,Maryland,1998,5130072
 24,Maryland,1999,5171634
-24,Maryland,2020,6055802
 24,Maryland,2000,5311034
 24,Maryland,2001,5374691
 24,Maryland,2002,5440389
@@ -2428,6 +2447,8 @@ fips,region,time,population
 24,Maryland,2017,6023868
 24,Maryland,2018,6035802
 24,Maryland,2019,6045680
+24,Maryland,2020,6055802
+24,Maryland,2021,6165129
 25,Massachusetts,1900,2788000
 25,Massachusetts,1901,2794000
 25,Massachusetts,1902,2856000
@@ -2528,7 +2549,6 @@ fips,region,time,population
 25,Massachusetts,1997,6115476
 25,Massachusetts,1998,6144407
 25,Massachusetts,1999,6175169
-25,Massachusetts,2020,6893574
 25,Massachusetts,2000,6361104
 25,Massachusetts,2001,6397634
 25,Massachusetts,2002,6417206
@@ -2549,6 +2569,8 @@ fips,region,time,population
 25,Massachusetts,2017,6859789
 25,Massachusetts,2018,6882635
 25,Massachusetts,2019,6892503
+25,Massachusetts,2020,6893574
+25,Massachusetts,2021,6984723
 26,Michigan,1900,2423000
 26,Michigan,1901,2450000
 26,Michigan,1902,2477000
@@ -2649,7 +2671,6 @@ fips,region,time,population
 26,Michigan,1997,9785450
 26,Michigan,1998,9820231
 26,Michigan,1999,9863775
-26,Michigan,2020,9966555
 26,Michigan,2000,9952450
 26,Michigan,2001,9991120
 26,Michigan,2002,10015710
@@ -2670,6 +2691,8 @@ fips,region,time,population
 26,Michigan,2017,9973114
 26,Michigan,2018,9984072
 26,Michigan,2019,9986857
+26,Michigan,2020,9966555
+26,Michigan,2021,10050811
 27,Minnesota,1900,1754000
 27,Minnesota,1901,1805000
 27,Minnesota,1902,1862000
@@ -2770,7 +2793,6 @@ fips,region,time,population
 27,Minnesota,1997,4687726
 27,Minnesota,1998,4726411
 27,Minnesota,1999,4775508
-27,Minnesota,2020,5657342
 27,Minnesota,2000,4933692
 27,Minnesota,2001,4982796
 27,Minnesota,2002,5018935
@@ -2791,6 +2813,8 @@ fips,region,time,population
 27,Minnesota,2017,5566230
 27,Minnesota,2018,5606249
 27,Minnesota,2019,5639632
+27,Minnesota,2020,5657342
+27,Minnesota,2021,5707390
 28,Mississippi,1900,1553000
 28,Mississippi,1901,1578000
 28,Mississippi,1902,1603000
@@ -2891,7 +2915,6 @@ fips,region,time,population
 28,Mississippi,1997,2731826
 28,Mississippi,1998,2751335
 28,Mississippi,1999,2768619
-28,Mississippi,2020,2966786
 28,Mississippi,2000,2848353
 28,Mississippi,2001,2852994
 28,Mississippi,2002,2858681
@@ -2912,6 +2935,8 @@ fips,region,time,population
 28,Mississippi,2017,2988510
 28,Mississippi,2018,2981020
 28,Mississippi,2019,2976149
+28,Mississippi,2020,2966786
+28,Mississippi,2021,2949965
 29,Missouri,1900,3108000
 29,Missouri,1901,3128000
 29,Missouri,1902,3147000
@@ -3012,7 +3037,6 @@ fips,region,time,population
 29,Missouri,1997,5407113
 29,Missouri,1998,5437562
 29,Missouri,1999,5468338
-29,Missouri,2020,6151548
 29,Missouri,2000,5607285
 29,Missouri,2001,5641142
 29,Missouri,2002,5674825
@@ -3033,6 +3057,8 @@ fips,region,time,population
 29,Missouri,2017,6106670
 29,Missouri,2018,6121623
 29,Missouri,2019,6137428
+29,Missouri,2020,6151548
+29,Missouri,2021,6168187
 30,Montana,1900,245000
 30,Montana,1901,261000
 30,Montana,1902,270000
@@ -3133,7 +3159,6 @@ fips,region,time,population
 30,Montana,1997,878706
 30,Montana,1998,879533
 30,Montana,1999,882779
-30,Montana,2020,1080577
 30,Montana,2000,903773
 30,Montana,2001,906961
 30,Montana,2002,911667
@@ -3154,6 +3179,8 @@ fips,region,time,population
 30,Montana,2017,1052482
 30,Montana,2018,1060665
 30,Montana,2019,1068778
+30,Montana,2020,1080577
+30,Montana,2021,1104271
 31,Nebraska,1900,1067000
 31,Nebraska,1901,1078000
 31,Nebraska,1902,1089000
@@ -3254,7 +3281,6 @@ fips,region,time,population
 31,Nebraska,1997,1656042
 31,Nebraska,1998,1660772
 31,Nebraska,1999,1666028
-31,Nebraska,2020,1937552
 31,Nebraska,2000,1713820
 31,Nebraska,2001,1719836
 31,Nebraska,2002,1728292
@@ -3275,6 +3301,8 @@ fips,region,time,population
 31,Nebraska,2017,1915947
 31,Nebraska,2018,1925614
 31,Nebraska,2019,1934408
+31,Nebraska,2020,1937552
+31,Nebraska,2021,1963692
 32,Nevada,1900,43000
 32,Nevada,1901,45000
 32,Nevada,1902,49000
@@ -3375,7 +3403,6 @@ fips,region,time,population
 32,Nevada,1997,1675581
 32,Nevada,1998,1743772
 32,Nevada,1999,1809253
-32,Nevada,2020,3138259
 32,Nevada,2000,2018741
 32,Nevada,2001,2098399
 32,Nevada,2002,2173791
@@ -3396,6 +3423,8 @@ fips,region,time,population
 32,Nevada,2017,2969905
 32,Nevada,2018,3027341
 32,Nevada,2019,3080156
+32,Nevada,2020,3138259
+32,Nevada,2021,3143991
 33,New Hampshire,1900,412000
 33,New Hampshire,1901,412000
 33,New Hampshire,1902,409000
@@ -3496,7 +3525,6 @@ fips,region,time,population
 33,New Hampshire,1997,1173239
 33,New Hampshire,1998,1185823
 33,New Hampshire,1999,1201134
-33,New Hampshire,2020,1366275
 33,New Hampshire,2000,1239882
 33,New Hampshire,2001,1255517
 33,New Hampshire,2002,1269089
@@ -3517,6 +3545,8 @@ fips,region,time,population
 33,New Hampshire,2017,1348787
 33,New Hampshire,2018,1353465
 33,New Hampshire,2019,1359711
+33,New Hampshire,2020,1366275
+33,New Hampshire,2021,1388992
 34,New Jersey,1900,1884000
 34,New Jersey,1901,1889000
 34,New Jersey,1902,1917000
@@ -3617,7 +3647,6 @@ fips,region,time,population
 34,New Jersey,1997,8054178
 34,New Jersey,1998,8095542
 34,New Jersey,1999,8143412
-34,New Jersey,2020,8882371
 34,New Jersey,2000,8430621
 34,New Jersey,2001,8492671
 34,New Jersey,2002,8552643
@@ -3638,6 +3667,8 @@ fips,region,time,population
 34,New Jersey,2017,8885525
 34,New Jersey,2018,8886025
 34,New Jersey,2019,8882190
+34,New Jersey,2020,8882371
+34,New Jersey,2021,9267130
 35,New Mexico,1900,196000
 35,New Mexico,1901,206000
 35,New Mexico,1902,218000
@@ -3738,7 +3769,6 @@ fips,region,time,population
 35,New Mexico,1997,1722939
 35,New Mexico,1998,1733535
 35,New Mexico,1999,1739844
-35,New Mexico,2020,2106319
 35,New Mexico,2000,1821204
 35,New Mexico,2001,1831690
 35,New Mexico,2002,1855309
@@ -3759,6 +3789,8 @@ fips,region,time,population
 35,New Mexico,2017,2091784
 35,New Mexico,2018,2092741
 35,New Mexico,2019,2096829
+35,New Mexico,2020,2106319
+35,New Mexico,2021,2115877
 36,New York,1900,7283000
 36,New York,1901,7449000
 36,New York,1902,7612000
@@ -3859,7 +3891,6 @@ fips,region,time,population
 36,New York,1997,18143184
 36,New York,1998,18159175
 36,New York,1999,18196601
-36,New York,2020,19336776
 36,New York,2000,19001780
 36,New York,2001,19082838
 36,New York,2002,19137800
@@ -3880,6 +3911,8 @@ fips,region,time,population
 36,New York,2017,19589572
 36,New York,2018,19530351
 36,New York,2019,19453561
+36,New York,2020,19336776
+36,New York,2021,19835913
 37,North Carolina,1900,1897000
 37,North Carolina,1901,1926000
 37,North Carolina,1902,1956000
@@ -3980,7 +4013,6 @@ fips,region,time,population
 37,North Carolina,1997,7428672
 37,North Carolina,1998,7545828
 37,North Carolina,1999,7650789
-37,North Carolina,2020,10600823
 37,North Carolina,2000,8081614
 37,North Carolina,2001,8210122
 37,North Carolina,2002,8326201
@@ -4001,6 +4033,8 @@ fips,region,time,population
 37,North Carolina,2017,10268233
 37,North Carolina,2018,10381615
 37,North Carolina,2019,10488084
+37,North Carolina,2020,10600823
+37,North Carolina,2021,10551162
 38,North Dakota,1900,321000
 38,North Dakota,1901,346000
 38,North Dakota,1902,371000
@@ -4101,7 +4135,6 @@ fips,region,time,population
 38,North Dakota,1997,640945
 38,North Dakota,1998,637808
 38,North Dakota,1999,633666
-38,North Dakota,2020,765309
 38,North Dakota,2000,642023
 38,North Dakota,2001,639062
 38,North Dakota,2002,638168
@@ -4122,6 +4155,8 @@ fips,region,time,population
 38,North Dakota,2017,754942
 38,North Dakota,2018,758080
 38,North Dakota,2019,762062
+38,North Dakota,2020,765309
+38,North Dakota,2021,774948
 39,Ohio,1900,4161000
 39,Ohio,1901,4216000
 39,Ohio,1902,4322000
@@ -4222,7 +4257,6 @@ fips,region,time,population
 39,Ohio,1997,11212498
 39,Ohio,1998,11237752
 39,Ohio,1999,11256654
-39,Ohio,2020,11693217
 39,Ohio,2000,11363543
 39,Ohio,2001,11387404
 39,Ohio,2002,11407889
@@ -4243,6 +4277,8 @@ fips,region,time,population
 39,Ohio,2017,11659650
 39,Ohio,2018,11676341
 39,Ohio,2019,11689100
+39,Ohio,2020,11693217
+39,Ohio,2021,11780017
 40,Oklahoma,1900,800000
 40,Oklahoma,1901,916000
 40,Oklahoma,1902,1027000
@@ -4343,7 +4379,6 @@ fips,region,time,population
 40,Oklahoma,1997,3314259
 40,Oklahoma,1998,3339478
 40,Oklahoma,1999,3358044
-40,Oklahoma,2020,3980783
 40,Oklahoma,2000,3454365
 40,Oklahoma,2001,3467100
 40,Oklahoma,2002,3489080
@@ -4364,6 +4399,8 @@ fips,region,time,population
 40,Oklahoma,2017,3931316
 40,Oklahoma,2018,3940235
 40,Oklahoma,2019,3956971
+40,Oklahoma,2020,3980783
+40,Oklahoma,2021,3986639
 41,Oregon,1900,415000
 41,Oregon,1901,434000
 41,Oregon,1902,454000
@@ -4464,7 +4501,6 @@ fips,region,time,population
 41,Oregon,1997,3243254
 41,Oregon,1998,3282055
 41,Oregon,1999,3316154
-41,Oregon,2020,4241507
 41,Oregon,2000,3429708
 41,Oregon,2001,3467937
 41,Oregon,2002,3513424
@@ -4485,6 +4521,8 @@ fips,region,time,population
 41,Oregon,2017,4143625
 41,Oregon,2018,4181886
 41,Oregon,2019,4217737
+41,Oregon,2020,4241507
+41,Oregon,2021,4246155
 42,Pennsylvania,1900,6313000
 42,Pennsylvania,1901,6439000
 42,Pennsylvania,1902,6567000
@@ -4585,7 +4623,6 @@ fips,region,time,population
 42,Pennsylvania,1997,12015888
 42,Pennsylvania,1998,12002329
 42,Pennsylvania,1999,11994016
-42,Pennsylvania,2020,12783254
 42,Pennsylvania,2000,12284173
 42,Pennsylvania,2001,12298970
 42,Pennsylvania,2002,12331031
@@ -4606,6 +4643,8 @@ fips,region,time,population
 42,Pennsylvania,2017,12787641
 42,Pennsylvania,2018,12800922
 42,Pennsylvania,2019,12801989
+42,Pennsylvania,2020,12783254
+42,Pennsylvania,2021,12964056
 44,Rhode Island,1900,430000
 44,Rhode Island,1901,441000
 44,Rhode Island,1902,450000
@@ -4706,7 +4745,6 @@ fips,region,time,population
 44,Rhode Island,1997,986966
 44,Rhode Island,1998,987704
 44,Rhode Island,1999,990819
-44,Rhode Island,2020,1057125
 44,Rhode Island,2000,1050268
 44,Rhode Island,2001,1057142
 44,Rhode Island,2002,1065995
@@ -4727,6 +4765,8 @@ fips,region,time,population
 44,Rhode Island,2017,1055673
 44,Rhode Island,2018,1058287
 44,Rhode Island,2019,1059361
+44,Rhode Island,2020,1057125
+44,Rhode Island,2021,1095610
 45,South Carolina,1900,1342000
 45,South Carolina,1901,1361000
 45,South Carolina,1902,1379000
@@ -4827,7 +4867,6 @@ fips,region,time,population
 45,South Carolina,1997,3790066
 45,South Carolina,1998,3839578
 45,South Carolina,1999,3885736
-45,South Carolina,2020,5218040
 45,South Carolina,2000,4024223
 45,South Carolina,2001,4064995
 45,South Carolina,2002,4107795
@@ -4848,6 +4887,8 @@ fips,region,time,population
 45,South Carolina,2017,5021268
 45,South Carolina,2018,5084156
 45,South Carolina,2019,5148714
+45,South Carolina,2020,5218040
+45,South Carolina,2021,5190705
 46,South Dakota,1900,403000
 46,South Dakota,1901,418000
 46,South Dakota,1902,431000
@@ -4948,7 +4989,6 @@ fips,region,time,population
 46,South Dakota,1997,730855
 46,South Dakota,1998,730789
 46,South Dakota,1999,733133
-46,South Dakota,2020,892717
 46,South Dakota,2000,755844
 46,South Dakota,2001,757972
 46,South Dakota,2002,760020
@@ -4969,6 +5009,8 @@ fips,region,time,population
 46,South Dakota,2017,872868
 46,South Dakota,2018,878698
 46,South Dakota,2019,884659
+46,South Dakota,2020,892717
+46,South Dakota,2021,895376
 47,Tennessee,1900,2023000
 47,Tennessee,1901,2041000
 47,Tennessee,1902,2060000
@@ -5069,7 +5111,6 @@ fips,region,time,population
 47,Tennessee,1997,5378433
 47,Tennessee,1998,5432679
 47,Tennessee,1999,5483535
-47,Tennessee,2020,6886834
 47,Tennessee,2000,5703719
 47,Tennessee,2001,5750789
 47,Tennessee,2002,5795918
@@ -5090,6 +5131,8 @@ fips,region,time,population
 47,Tennessee,2017,6708799
 47,Tennessee,2018,6771631
 47,Tennessee,2019,6829174
+47,Tennessee,2020,6886834
+47,Tennessee,2021,6975218
 48,Texas,1900,3055000
 48,Texas,1901,3132000
 48,Texas,1902,3210000
@@ -5190,7 +5233,6 @@ fips,region,time,population
 48,Texas,1997,19355427
 48,Texas,1998,19712389
 48,Texas,1999,20044141
-48,Texas,2020,29360759
 48,Texas,2000,20944499
 48,Texas,2001,21319622
 48,Texas,2002,21690325
@@ -5211,6 +5253,8 @@ fips,region,time,population
 48,Texas,2017,28295273
 48,Texas,2018,28628666
 48,Texas,2019,28995881
+48,Texas,2020,29360759
+48,Texas,2021,29527941
 49,Utah,1900,277000
 49,Utah,1901,284000
 49,Utah,1902,292000
@@ -5311,7 +5355,6 @@ fips,region,time,population
 49,Utah,1997,2065397
 49,Utah,1998,2100562
 49,Utah,1999,2129836
-49,Utah,2020,3249879
 49,Utah,2000,2244502
 49,Utah,2001,2283715
 49,Utah,2002,2324815
@@ -5332,6 +5375,8 @@ fips,region,time,population
 49,Utah,2017,3101042
 49,Utah,2018,3153550
 49,Utah,2019,3205958
+49,Utah,2020,3249879
+49,Utah,2021,3337975
 50,Vermont,1900,344000
 50,Vermont,1901,347000
 50,Vermont,1902,349000
@@ -5432,7 +5477,6 @@ fips,region,time,population
 50,Vermont,1997,588665
 50,Vermont,1998,590579
 50,Vermont,1999,593740
-50,Vermont,2020,623347
 50,Vermont,2000,609618
 50,Vermont,2001,612223
 50,Vermont,2002,615442
@@ -5453,6 +5497,8 @@ fips,region,time,population
 50,Vermont,2017,624344
 50,Vermont,2018,624358
 50,Vermont,2019,623989
+50,Vermont,2020,623347
+50,Vermont,2021,645570
 51,Virginia,1900,1858000
 51,Virginia,1901,1887000
 51,Virginia,1902,1894000
@@ -5553,7 +5599,6 @@ fips,region,time,population
 51,Virginia,1997,6732878
 51,Virginia,1998,6789225
 51,Virginia,1999,6872912
-51,Virginia,2020,8590563
 51,Virginia,2000,7105817
 51,Virginia,2001,7198362
 51,Virginia,2002,7286873
@@ -5574,6 +5619,8 @@ fips,region,time,population
 51,Virginia,2017,8463587
 51,Virginia,2018,8501286
 51,Virginia,2019,8535519
+51,Virginia,2020,8590563
+51,Virginia,2021,8642274
 53,Washington,1900,523000
 53,Washington,1901,583000
 53,Washington,1902,651000
@@ -5674,7 +5721,6 @@ fips,region,time,population
 53,Washington,1997,5604105
 53,Washington,1998,5687832
 53,Washington,1999,5756361
-53,Washington,2020,7693612
 53,Washington,2000,5910512
 53,Washington,2001,5985722
 53,Washington,2002,6052349
@@ -5695,6 +5741,8 @@ fips,region,time,population
 53,Washington,2017,7423362
 53,Washington,2018,7523869
 53,Washington,2019,7614893
+53,Washington,2020,7693612
+53,Washington,2021,7738692
 54,West Virginia,1900,959000
 54,West Virginia,1901,972000
 54,West Virginia,1902,1000000
@@ -5795,7 +5843,6 @@ fips,region,time,population
 54,West Virginia,1997,1815588
 54,West Virginia,1998,1811688
 54,West Virginia,1999,1806928
-54,West Virginia,2020,1784787
 54,West Virginia,2000,1807021
 54,West Virginia,2001,1801481
 54,West Virginia,2002,1805414
@@ -5816,6 +5863,8 @@ fips,region,time,population
 54,West Virginia,2017,1817004
 54,West Virginia,2018,1804291
 54,West Virginia,2019,1792147
+54,West Virginia,2020,1784787
+54,West Virginia,2021,1782959
 55,Wisconsin,1900,2072000
 55,Wisconsin,1901,2109000
 55,Wisconsin,1902,2141000
@@ -5916,7 +5965,6 @@ fips,region,time,population
 55,Wisconsin,1997,5200235
 55,Wisconsin,1998,5222124
 55,Wisconsin,1999,5250446
-55,Wisconsin,2020,5832655
 55,Wisconsin,2000,5373999
 55,Wisconsin,2001,5406835
 55,Wisconsin,2002,5445162
@@ -5937,6 +5985,8 @@ fips,region,time,population
 55,Wisconsin,2017,5790186
 55,Wisconsin,2018,5807406
 55,Wisconsin,2019,5822434
+55,Wisconsin,2020,5832655
+55,Wisconsin,2021,5895908
 56,Wyoming,1900,93000
 56,Wyoming,1901,100000
 56,Wyoming,1902,105000
@@ -6037,7 +6087,6 @@ fips,region,time,population
 56,Wyoming,1997,480031
 56,Wyoming,1998,480045
 56,Wyoming,1999,479602
-56,Wyoming,2020,582328
 56,Wyoming,2000,494300
 56,Wyoming,2001,494657
 56,Wyoming,2002,500017
@@ -6058,4 +6107,7 @@ fips,region,time,population
 56,Wyoming,2017,578931
 56,Wyoming,2018,577601
 56,Wyoming,2019,578759
+56,Wyoming,2020,582328
+56,Wyoming,2021,578803
 72,Puerto Rico,2020,3159343
+72,Puerto Rico,2021,3263584

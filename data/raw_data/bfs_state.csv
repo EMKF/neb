@@ -15,8 +15,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 01,Alabama,00,Total for All NAICS,2017,37085.0,3544.0,1.899492099322799
 01,Alabama,00,Total for All NAICS,2018,42206.0,3874.0,
 01,Alabama,00,Total for All NAICS,2019,41516.0,3805.0,
-01,Alabama,00,Total for All NAICS,2020,59931.0,4479.0,
-01,Alabama,00,Total for All NAICS,2021,75447.0,5945.0,
+01,Alabama,00,Total for All NAICS,2020,59961.0,4478.0,
+01,Alabama,00,Total for All NAICS,2021,75215.0,5947.0,
+01,Alabama,00,Total for All NAICS,2022,,,
 02,Alaska,00,Total for All NAICS,2004,,,
 02,Alaska,00,Total for All NAICS,2005,4770.0,,
 02,Alaska,00,Total for All NAICS,2006,5218.0,,
@@ -33,8 +34,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 02,Alaska,00,Total for All NAICS,2017,7379.0,,
 02,Alaska,00,Total for All NAICS,2018,9219.0,969.0,
 02,Alaska,00,Total for All NAICS,2019,8183.0,996.0,
-02,Alaska,00,Total for All NAICS,2020,7969.0,955.0,
-02,Alaska,00,Total for All NAICS,2021,8088.0,1034.0,
+02,Alaska,00,Total for All NAICS,2020,7973.0,955.0,
+02,Alaska,00,Total for All NAICS,2021,8088.0,1033.0,
+02,Alaska,00,Total for All NAICS,2022,,,
 04,Arizona,00,Total for All NAICS,2004,,,
 04,Arizona,00,Total for All NAICS,2005,57238.0,11549.0,1.6244211620053683
 04,Arizona,00,Total for All NAICS,2006,63287.0,10933.0,1.6659023140949416
@@ -51,8 +53,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 04,Arizona,00,Total for All NAICS,2017,68148.0,6832.0,2.1932596604215457
 04,Arizona,00,Total for All NAICS,2018,74005.0,7295.0,
 04,Arizona,00,Total for All NAICS,2019,76738.0,7637.0,
-04,Arizona,00,Total for All NAICS,2020,89569.0,8191.0,
-04,Arizona,00,Total for All NAICS,2021,113504.0,10666.0,
+04,Arizona,00,Total for All NAICS,2020,89670.0,8191.0,
+04,Arizona,00,Total for All NAICS,2021,113409.0,10651.0,
+04,Arizona,00,Total for All NAICS,2022,,,
 05,Arkansas,00,Total for All NAICS,2004,,,
 05,Arkansas,00,Total for All NAICS,2005,19260.0,3888.0,1.1931018518518517
 05,Arkansas,00,Total for All NAICS,2006,20436.0,3736.0,1.3452569593147752
@@ -69,8 +72,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 05,Arkansas,00,Total for All NAICS,2017,23298.0,2682.0,1.7796196868008947
 05,Arkansas,00,Total for All NAICS,2018,25856.0,2913.0,
 05,Arkansas,00,Total for All NAICS,2019,25544.0,2805.0,
-05,Arkansas,00,Total for All NAICS,2020,32616.0,3141.0,
-05,Arkansas,00,Total for All NAICS,2021,41464.0,4084.0,
+05,Arkansas,00,Total for All NAICS,2020,32610.0,3139.0,
+05,Arkansas,00,Total for All NAICS,2021,41471.0,4098.0,
+05,Arkansas,00,Total for All NAICS,2022,,,
 06,California,00,Total for All NAICS,2004,,,
 06,California,00,Total for All NAICS,2005,274214.0,65164.0,1.4599215824688478
 06,California,00,Total for All NAICS,2006,287192.0,60296.0,1.5147067798858964
@@ -87,8 +91,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 06,California,00,Total for All NAICS,2017,328224.0,49630.0,2.035567398750756
 06,California,00,Total for All NAICS,2018,367014.0,55473.0,
 06,California,00,Total for All NAICS,2019,368230.0,52755.0,
-06,California,00,Total for All NAICS,2020,440146.0,56093.0,
-06,California,00,Total for All NAICS,2021,520904.0,66578.0,
+06,California,00,Total for All NAICS,2020,440258.0,56120.0,
+06,California,00,Total for All NAICS,2021,521790.0,66665.0,
+06,California,00,Total for All NAICS,2022,,,
 08,Colorado,00,Total for All NAICS,2004,,,
 08,Colorado,00,Total for All NAICS,2005,56135.0,11441.0,1.522013809981645
 08,Colorado,00,Total for All NAICS,2006,59414.0,10861.0,1.562598287450511
@@ -105,8 +110,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 08,Colorado,00,Total for All NAICS,2017,80725.0,8554.0,2.1206231003039515
 08,Colorado,00,Total for All NAICS,2018,88297.0,9300.0,
 08,Colorado,00,Total for All NAICS,2019,86786.0,8677.0,
-08,Colorado,00,Total for All NAICS,2020,93505.0,8660.0,
-08,Colorado,00,Total for All NAICS,2021,111447.0,10093.0,
+08,Colorado,00,Total for All NAICS,2020,93533.0,8687.0,
+08,Colorado,00,Total for All NAICS,2021,111363.0,10085.0,
+08,Colorado,00,Total for All NAICS,2022,,,
 09,Connecticut,00,Total for All NAICS,2004,,,
 09,Connecticut,00,Total for All NAICS,2005,28608.0,4281.0,1.5060943704741883
 09,Connecticut,00,Total for All NAICS,2006,30778.0,4054.0,1.6089220522940306
@@ -123,8 +129,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 09,Connecticut,00,Total for All NAICS,2017,30256.0,2735.0,2.0594478976234005
 09,Connecticut,00,Total for All NAICS,2018,34111.0,2965.0,
 09,Connecticut,00,Total for All NAICS,2019,32871.0,2922.0,
-09,Connecticut,00,Total for All NAICS,2020,37481.0,2976.0,
-09,Connecticut,00,Total for All NAICS,2021,47304.0,3815.0,
+09,Connecticut,00,Total for All NAICS,2020,37477.0,2976.0,
+09,Connecticut,00,Total for All NAICS,2021,47348.0,3815.0,
+09,Connecticut,00,Total for All NAICS,2022,,,
 10,Delaware,00,Total for All NAICS,2004,,,
 10,Delaware,00,Total for All NAICS,2005,11424.0,1508.0,1.6981366047745359
 10,Delaware,00,Total for All NAICS,2006,11678.0,1368.0,1.7539473684210527
@@ -141,8 +148,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 10,Delaware,00,Total for All NAICS,2017,23203.0,1460.0,2.2908013698630136
 10,Delaware,00,Total for All NAICS,2018,26397.0,1612.0,
 10,Delaware,00,Total for All NAICS,2019,25971.0,1651.0,
-10,Delaware,00,Total for All NAICS,2020,31056.0,1921.0,
-10,Delaware,00,Total for All NAICS,2021,44824.0,2707.0,
+10,Delaware,00,Total for All NAICS,2020,31053.0,1921.0,
+10,Delaware,00,Total for All NAICS,2021,44987.0,2706.0,
+10,Delaware,00,Total for All NAICS,2022,,,
 11,District of Columbia,00,Total for All NAICS,2004,,,
 11,District of Columbia,00,Total for All NAICS,2005,7346.0,,
 11,District of Columbia,00,Total for All NAICS,2006,7997.0,,
@@ -159,8 +167,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 11,District of Columbia,00,Total for All NAICS,2017,10716.0,,
 11,District of Columbia,00,Total for All NAICS,2018,11930.0,867.0,
 11,District of Columbia,00,Total for All NAICS,2019,12341.0,870.0,
-11,District of Columbia,00,Total for All NAICS,2020,14669.0,835.0,
-11,District of Columbia,00,Total for All NAICS,2021,16823.0,996.0,
+11,District of Columbia,00,Total for All NAICS,2020,14661.0,835.0,
+11,District of Columbia,00,Total for All NAICS,2021,16900.0,1000.0,
+11,District of Columbia,00,Total for All NAICS,2022,,,
 12,Florida,00,Total for All NAICS,2004,,,
 12,Florida,00,Total for All NAICS,2005,283938.0,44426.0,1.8629773105838925
 12,Florida,00,Total for All NAICS,2006,290193.0,38484.0,1.8894740671447876
@@ -177,8 +186,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 12,Florida,00,Total for All NAICS,2017,361253.0,31035.0,2.2637876590945702
 12,Florida,00,Total for All NAICS,2018,395241.0,33590.0,
 12,Florida,00,Total for All NAICS,2019,394181.0,31862.0,
-12,Florida,00,Total for All NAICS,2020,502600.0,36668.0,
-12,Florida,00,Total for All NAICS,2021,636491.0,46564.0,
+12,Florida,00,Total for All NAICS,2020,502467.0,36651.0,
+12,Florida,00,Total for All NAICS,2021,634843.0,46595.0,
+12,Florida,00,Total for All NAICS,2022,,,
 13,Georgia,00,Total for All NAICS,2004,,,
 13,Georgia,00,Total for All NAICS,2005,97978.0,16070.0,1.5739794648413192
 13,Georgia,00,Total for All NAICS,2006,110034.0,15650.0,1.600417891373802
@@ -195,8 +205,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 13,Georgia,00,Total for All NAICS,2017,145474.0,10954.0,2.1567710425415374
 13,Georgia,00,Total for All NAICS,2018,161189.0,12162.0,
 13,Georgia,00,Total for All NAICS,2019,172747.0,12388.0,
-13,Georgia,00,Total for All NAICS,2020,273602.0,16222.0,
-13,Georgia,00,Total for All NAICS,2021,326448.0,19995.0,
+13,Georgia,00,Total for All NAICS,2020,273727.0,16228.0,
+13,Georgia,00,Total for All NAICS,2021,325929.0,19996.0,
+13,Georgia,00,Total for All NAICS,2022,,,
 15,Hawaii,00,Total for All NAICS,2004,,,
 15,Hawaii,00,Total for All NAICS,2005,9666.0,,
 15,Hawaii,00,Total for All NAICS,2006,10592.0,,
@@ -213,8 +224,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 15,Hawaii,00,Total for All NAICS,2017,12753.0,,
 15,Hawaii,00,Total for All NAICS,2018,15448.0,1201.0,
 15,Hawaii,00,Total for All NAICS,2019,14540.0,1121.0,
-15,Hawaii,00,Total for All NAICS,2020,15677.0,1111.0,
-15,Hawaii,00,Total for All NAICS,2021,19233.0,1394.0,
+15,Hawaii,00,Total for All NAICS,2020,15684.0,1112.0,
+15,Hawaii,00,Total for All NAICS,2021,19211.0,1390.0,
+15,Hawaii,00,Total for All NAICS,2022,,,
 16,Idaho,00,Total for All NAICS,2004,,,
 16,Idaho,00,Total for All NAICS,2005,15207.0,4067.0,1.272318662404721
 16,Idaho,00,Total for All NAICS,2006,17134.0,3954.0,1.2514036418816388
@@ -231,8 +243,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 16,Idaho,00,Total for All NAICS,2017,17951.0,2738.0,1.8492403214024837
 16,Idaho,00,Total for All NAICS,2018,22777.0,3257.0,
 16,Idaho,00,Total for All NAICS,2019,21609.0,3135.0,
-16,Idaho,00,Total for All NAICS,2020,22117.0,3130.0,
-16,Idaho,00,Total for All NAICS,2021,28446.0,3937.0,
+16,Idaho,00,Total for All NAICS,2020,22129.0,3128.0,
+16,Idaho,00,Total for All NAICS,2021,28470.0,3935.0,
+16,Idaho,00,Total for All NAICS,2022,,,
 17,Illinois,00,Total for All NAICS,2004,,,
 17,Illinois,00,Total for All NAICS,2005,96039.0,18095.0,1.6857247858524453
 17,Illinois,00,Total for All NAICS,2006,98428.0,17024.0,1.701081414473684
@@ -249,8 +262,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 17,Illinois,00,Total for All NAICS,2017,104805.0,12467.0,2.1307090719499477
 17,Illinois,00,Total for All NAICS,2018,117044.0,13502.0,
 17,Illinois,00,Total for All NAICS,2019,118111.0,12876.0,
-17,Illinois,00,Total for All NAICS,2020,173155.0,15259.0,
-17,Illinois,00,Total for All NAICS,2021,198248.0,17853.0,
+17,Illinois,00,Total for All NAICS,2020,173342.0,15264.0,
+17,Illinois,00,Total for All NAICS,2021,197717.0,17961.0,
+17,Illinois,00,Total for All NAICS,2022,,,
 18,Indiana,00,Total for All NAICS,2004,,,
 18,Indiana,00,Total for All NAICS,2005,38139.0,7712.0,1.3393892634854774
 18,Indiana,00,Total for All NAICS,2006,39356.0,7313.0,1.412726651169151
@@ -267,8 +281,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 18,Indiana,00,Total for All NAICS,2017,48371.0,5027.0,1.987728267356276
 18,Indiana,00,Total for All NAICS,2018,52449.0,5320.0,
 18,Indiana,00,Total for All NAICS,2019,54166.0,5364.0,
-18,Indiana,00,Total for All NAICS,2020,69425.0,6001.0,
-18,Indiana,00,Total for All NAICS,2021,87066.0,7551.0,
+18,Indiana,00,Total for All NAICS,2020,69441.0,6002.0,
+18,Indiana,00,Total for All NAICS,2021,86833.0,7552.0,
+18,Indiana,00,Total for All NAICS,2022,,,
 19,Iowa,00,Total for All NAICS,2004,,,
 19,Iowa,00,Total for All NAICS,2005,18043.0,4043.0,1.1713282216176109
 19,Iowa,00,Total for All NAICS,2006,18776.0,3531.0,1.2872245822713113
@@ -285,8 +300,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 19,Iowa,00,Total for All NAICS,2017,22752.0,2814.0,1.724502487562189
 19,Iowa,00,Total for All NAICS,2018,24497.0,2995.0,
 19,Iowa,00,Total for All NAICS,2019,22044.0,2669.0,
-19,Iowa,00,Total for All NAICS,2020,24001.0,2725.0,
-19,Iowa,00,Total for All NAICS,2021,29682.0,3477.0,
+19,Iowa,00,Total for All NAICS,2020,24008.0,2725.0,
+19,Iowa,00,Total for All NAICS,2021,29640.0,3474.0,
+19,Iowa,00,Total for All NAICS,2022,,,
 20,Kansas,00,Total for All NAICS,2004,,,
 20,Kansas,00,Total for All NAICS,2005,19014.0,4188.0,1.1936055396370582
 20,Kansas,00,Total for All NAICS,2006,19637.0,3736.0,1.2578800856531047
@@ -303,8 +319,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 20,Kansas,00,Total for All NAICS,2017,21937.0,2562.0,1.7809445745511319
 20,Kansas,00,Total for All NAICS,2018,24483.0,2806.0,
 20,Kansas,00,Total for All NAICS,2019,22518.0,2683.0,
-20,Kansas,00,Total for All NAICS,2020,24469.0,2691.0,
-20,Kansas,00,Total for All NAICS,2021,30413.0,3350.0,
+20,Kansas,00,Total for All NAICS,2020,24528.0,2688.0,
+20,Kansas,00,Total for All NAICS,2021,30395.0,3336.0,
+20,Kansas,00,Total for All NAICS,2022,,,
 21,Kentucky,00,Total for All NAICS,2004,,,
 21,Kentucky,00,Total for All NAICS,2005,25592.0,4797.0,1.3005503439649782
 21,Kentucky,00,Total for All NAICS,2006,25936.0,4464.0,1.3345698924731184
@@ -321,8 +338,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 21,Kentucky,00,Total for All NAICS,2017,30743.0,3151.0,1.8309330371310697
 21,Kentucky,00,Total for All NAICS,2018,33937.0,3391.0,
 21,Kentucky,00,Total for All NAICS,2019,33113.0,3349.0,
-21,Kentucky,00,Total for All NAICS,2020,37475.0,3395.0,
-21,Kentucky,00,Total for All NAICS,2021,47341.0,4382.0,
+21,Kentucky,00,Total for All NAICS,2020,37428.0,3395.0,
+21,Kentucky,00,Total for All NAICS,2021,47304.0,4391.0,
+21,Kentucky,00,Total for All NAICS,2022,,,
 22,Louisiana,00,Total for All NAICS,2004,,,
 22,Louisiana,00,Total for All NAICS,2005,36421.0,5427.0,1.4949382716049382
 22,Louisiana,00,Total for All NAICS,2006,41300.0,5678.0,1.5826946107784432
@@ -339,8 +357,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 22,Louisiana,00,Total for All NAICS,2017,52779.0,3769.0,2.0576306712655876
 22,Louisiana,00,Total for All NAICS,2018,54358.0,3832.0,
 22,Louisiana,00,Total for All NAICS,2019,54181.0,3514.0,
-22,Louisiana,00,Total for All NAICS,2020,84677.0,4525.0,
-22,Louisiana,00,Total for All NAICS,2021,100202.0,5373.0,
+22,Louisiana,00,Total for All NAICS,2020,84616.0,4527.0,
+22,Louisiana,00,Total for All NAICS,2021,99978.0,5380.0,
+22,Louisiana,00,Total for All NAICS,2022,,,
 23,Maine,00,Total for All NAICS,2004,,,
 23,Maine,00,Total for All NAICS,2005,9204.0,,
 23,Maine,00,Total for All NAICS,2006,9294.0,,
@@ -357,8 +376,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 23,Maine,00,Total for All NAICS,2017,8864.0,,
 23,Maine,00,Total for All NAICS,2018,10936.0,1725.0,
 23,Maine,00,Total for All NAICS,2019,9996.0,1655.0,
-23,Maine,00,Total for All NAICS,2020,10616.0,1643.0,
-23,Maine,00,Total for All NAICS,2021,13510.0,2099.0,
+23,Maine,00,Total for All NAICS,2020,10595.0,1641.0,
+23,Maine,00,Total for All NAICS,2021,13523.0,2103.0,
+23,Maine,00,Total for All NAICS,2022,,,
 24,Maryland,00,Total for All NAICS,2004,,,
 24,Maryland,00,Total for All NAICS,2005,54817.0,8202.0,1.6084906120458424
 24,Maryland,00,Total for All NAICS,2006,58503.0,7491.0,1.6740755573354693
@@ -375,8 +395,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 24,Maryland,00,Total for All NAICS,2017,68834.0,5134.0,2.268272302298403
 24,Maryland,00,Total for All NAICS,2018,75341.0,5527.0,
 24,Maryland,00,Total for All NAICS,2019,75777.0,5452.0,
-24,Maryland,00,Total for All NAICS,2020,98650.0,6115.0,
-24,Maryland,00,Total for All NAICS,2021,115120.0,7459.0,
+24,Maryland,00,Total for All NAICS,2020,98643.0,6112.0,
+24,Maryland,00,Total for All NAICS,2021,115013.0,7479.0,
+24,Maryland,00,Total for All NAICS,2022,,,
 25,Massachusetts,00,Total for All NAICS,2004,,,
 25,Massachusetts,00,Total for All NAICS,2005,47262.0,9238.0,1.4262491881359602
 25,Massachusetts,00,Total for All NAICS,2006,48425.0,8244.0,1.4724514798641435
@@ -393,8 +414,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 25,Massachusetts,00,Total for All NAICS,2017,55218.0,7367.0,1.972741957377494
 25,Massachusetts,00,Total for All NAICS,2018,59500.0,7937.0,
 25,Massachusetts,00,Total for All NAICS,2019,57351.0,7495.0,
-25,Massachusetts,00,Total for All NAICS,2020,62145.0,7409.0,
-25,Massachusetts,00,Total for All NAICS,2021,75852.0,9179.0,
+25,Massachusetts,00,Total for All NAICS,2020,62131.0,7410.0,
+25,Massachusetts,00,Total for All NAICS,2021,75818.0,9208.0,
+25,Massachusetts,00,Total for All NAICS,2022,,,
 26,Michigan,00,Total for All NAICS,2004,,,
 26,Michigan,00,Total for All NAICS,2005,76468.0,12366.0,1.444566553453016
 26,Michigan,00,Total for All NAICS,2006,78670.0,11224.0,1.5929303278688525
@@ -411,8 +433,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 26,Michigan,00,Total for All NAICS,2017,84976.0,7798.0,2.0426853039240833
 26,Michigan,00,Total for All NAICS,2018,94522.0,8354.0,
 26,Michigan,00,Total for All NAICS,2019,94788.0,7969.0,
-26,Michigan,00,Total for All NAICS,2020,132934.0,9188.0,
-26,Michigan,00,Total for All NAICS,2021,150740.0,10893.0,
+26,Michigan,00,Total for All NAICS,2020,132931.0,9187.0,
+26,Michigan,00,Total for All NAICS,2021,150782.0,10912.0,
+26,Michigan,00,Total for All NAICS,2022,,,
 27,Minnesota,00,Total for All NAICS,2004,,,
 27,Minnesota,00,Total for All NAICS,2005,40013.0,8717.0,1.4429448204657565
 27,Minnesota,00,Total for All NAICS,2006,40089.0,7450.0,1.4856993288590603
@@ -429,8 +452,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 27,Minnesota,00,Total for All NAICS,2017,43650.0,5271.0,1.9985904003035477
 27,Minnesota,00,Total for All NAICS,2018,47550.0,5644.0,
 27,Minnesota,00,Total for All NAICS,2019,46239.0,5488.0,
-27,Minnesota,00,Total for All NAICS,2020,53327.0,5903.0,
-27,Minnesota,00,Total for All NAICS,2021,64967.0,7081.0,
+27,Minnesota,00,Total for All NAICS,2020,53349.0,5900.0,
+27,Minnesota,00,Total for All NAICS,2021,64934.0,7109.0,
+27,Minnesota,00,Total for All NAICS,2022,,,
 28,Mississippi,00,Total for All NAICS,2004,,,
 28,Mississippi,00,Total for All NAICS,2005,19750.0,3315.0,1.2421779788838612
 28,Mississippi,00,Total for All NAICS,2006,22513.0,,
@@ -447,8 +471,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 28,Mississippi,00,Total for All NAICS,2017,28472.0,2024.0,1.7754693675889328
 28,Mississippi,00,Total for All NAICS,2018,30547.0,2147.0,
 28,Mississippi,00,Total for All NAICS,2019,31427.0,2195.0,
-28,Mississippi,00,Total for All NAICS,2020,51738.0,2898.0,
-28,Mississippi,00,Total for All NAICS,2021,65518.0,3607.0,
+28,Mississippi,00,Total for All NAICS,2020,51757.0,2899.0,
+28,Mississippi,00,Total for All NAICS,2021,65394.0,3579.0,
+28,Mississippi,00,Total for All NAICS,2022,,,
 29,Missouri,00,Total for All NAICS,2004,,,
 29,Missouri,00,Total for All NAICS,2005,45090.0,9327.0,1.224670311997427
 29,Missouri,00,Total for All NAICS,2006,47449.0,9007.0,1.1774031308981903
@@ -465,8 +490,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 29,Missouri,00,Total for All NAICS,2017,55254.0,5854.0,1.814128800819952
 29,Missouri,00,Total for All NAICS,2018,59092.0,6517.0,
 29,Missouri,00,Total for All NAICS,2019,59008.0,6318.0,
-29,Missouri,00,Total for All NAICS,2020,70431.0,6750.0,
-29,Missouri,00,Total for All NAICS,2021,84492.0,8216.0,
+29,Missouri,00,Total for All NAICS,2020,70454.0,6753.0,
+29,Missouri,00,Total for All NAICS,2021,84461.0,8218.0,
+29,Missouri,00,Total for All NAICS,2022,,,
 30,Montana,00,Total for All NAICS,2004,,,
 30,Montana,00,Total for All NAICS,2005,11308.0,2627.0,1.2318614389036924
 30,Montana,00,Total for All NAICS,2006,11513.0,2509.0,1.28210840972499
@@ -483,8 +509,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 30,Montana,00,Total for All NAICS,2017,12217.0,1650.0,1.9339151515151516
 30,Montana,00,Total for All NAICS,2018,15418.0,1890.0,
 30,Montana,00,Total for All NAICS,2019,14107.0,1753.0,
-30,Montana,00,Total for All NAICS,2020,14956.0,1791.0,
-30,Montana,00,Total for All NAICS,2021,19063.0,2319.0,
+30,Montana,00,Total for All NAICS,2020,14966.0,1790.0,
+30,Montana,00,Total for All NAICS,2021,19034.0,2314.0,
+30,Montana,00,Total for All NAICS,2022,,,
 31,Nebraska,00,Total for All NAICS,2004,,,
 31,Nebraska,00,Total for All NAICS,2005,10839.0,2717.0,1.1746963562753037
 31,Nebraska,00,Total for All NAICS,2006,11241.0,,
@@ -501,8 +528,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 31,Nebraska,00,Total for All NAICS,2017,14714.0,2030.0,1.7883645320197046
 31,Nebraska,00,Total for All NAICS,2018,16493.0,2187.0,
 31,Nebraska,00,Total for All NAICS,2019,14891.0,2119.0,
-31,Nebraska,00,Total for All NAICS,2020,15966.0,2067.0,
-31,Nebraska,00,Total for All NAICS,2021,19311.0,2560.0,
+31,Nebraska,00,Total for All NAICS,2020,15966.0,2069.0,
+31,Nebraska,00,Total for All NAICS,2021,19241.0,2555.0,
+31,Nebraska,00,Total for All NAICS,2022,,,
 32,Nevada,00,Total for All NAICS,2004,,,
 32,Nevada,00,Total for All NAICS,2005,44138.0,5825.0,1.7706849785407726
 32,Nevada,00,Total for All NAICS,2006,44510.0,5327.0,1.8294818847381265
@@ -519,8 +547,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 32,Nevada,00,Total for All NAICS,2017,43941.0,4021.0,2.1452001989554836
 32,Nevada,00,Total for All NAICS,2018,45857.0,4363.0,
 32,Nevada,00,Total for All NAICS,2019,42486.0,4095.0,
-32,Nevada,00,Total for All NAICS,2020,52024.0,4684.0,
-32,Nevada,00,Total for All NAICS,2021,68030.0,6011.0,
+32,Nevada,00,Total for All NAICS,2020,52025.0,4687.0,
+32,Nevada,00,Total for All NAICS,2021,67971.0,6004.0,
+32,Nevada,00,Total for All NAICS,2022,,,
 33,New Hampshire,00,Total for All NAICS,2004,,,
 33,New Hampshire,00,Total for All NAICS,2005,10744.0,2087.0,1.256502156205079
 33,New Hampshire,00,Total for All NAICS,2006,10574.0,,
@@ -537,8 +566,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 33,New Hampshire,00,Total for All NAICS,2017,11304.0,1313.0,1.8184310738766183
 33,New Hampshire,00,Total for All NAICS,2018,12879.0,1419.0,
 33,New Hampshire,00,Total for All NAICS,2019,11087.0,1353.0,
-33,New Hampshire,00,Total for All NAICS,2020,11330.0,1292.0,
-33,New Hampshire,00,Total for All NAICS,2021,13705.0,1647.0,
+33,New Hampshire,00,Total for All NAICS,2020,11327.0,1292.0,
+33,New Hampshire,00,Total for All NAICS,2021,13731.0,1646.0,
+33,New Hampshire,00,Total for All NAICS,2022,,,
 34,New Jersey,00,Total for All NAICS,2004,,,
 34,New Jersey,00,Total for All NAICS,2005,87752.0,14614.0,1.658382373066922
 34,New Jersey,00,Total for All NAICS,2006,90569.0,13558.0,1.7491886708954123
@@ -555,8 +585,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 34,New Jersey,00,Total for All NAICS,2017,102094.0,9821.0,2.1845341614906832
 34,New Jersey,00,Total for All NAICS,2018,110167.0,10440.0,
 34,New Jersey,00,Total for All NAICS,2019,113200.0,10194.0,
-34,New Jersey,00,Total for All NAICS,2020,135673.0,10698.0,
-34,New Jersey,00,Total for All NAICS,2021,163749.0,13176.0,
+34,New Jersey,00,Total for All NAICS,2020,135599.0,10699.0,
+34,New Jersey,00,Total for All NAICS,2021,164215.0,13211.0,
+34,New Jersey,00,Total for All NAICS,2022,,,
 35,New Mexico,00,Total for All NAICS,2004,,,
 35,New Mexico,00,Total for All NAICS,2005,11620.0,2821.0,1.317040056717476
 35,New Mexico,00,Total for All NAICS,2006,13336.0,2829.0,1.3900388829975256
@@ -573,8 +604,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 35,New Mexico,00,Total for All NAICS,2017,16259.0,1697.0,1.9728815556865056
 35,New Mexico,00,Total for All NAICS,2018,18011.0,1746.0,
 35,New Mexico,00,Total for All NAICS,2019,17460.0,1714.0,
-35,New Mexico,00,Total for All NAICS,2020,18033.0,1712.0,
-35,New Mexico,00,Total for All NAICS,2021,24539.0,2220.0,
+35,New Mexico,00,Total for All NAICS,2020,18040.0,1713.0,
+35,New Mexico,00,Total for All NAICS,2021,24545.0,2216.0,
+35,New Mexico,00,Total for All NAICS,2022,,,
 36,New York,00,Total for All NAICS,2004,,,
 36,New York,00,Total for All NAICS,2005,174083.0,31936.0,1.7173543962925852
 36,New York,00,Total for All NAICS,2006,179181.0,30633.0,1.779745372637352
@@ -591,8 +623,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 36,New York,00,Total for All NAICS,2017,215355.0,25558.0,2.1787948978793334
 36,New York,00,Total for All NAICS,2018,227736.0,26605.0,
 36,New York,00,Total for All NAICS,2019,230302.0,25853.0,
-36,New York,00,Total for All NAICS,2020,254831.0,25352.0,
-36,New York,00,Total for All NAICS,2021,310552.0,30939.0,
+36,New York,00,Total for All NAICS,2020,255111.0,25376.0,
+36,New York,00,Total for All NAICS,2021,311022.0,31005.0,
+36,New York,00,Total for All NAICS,2022,,,
 37,North Carolina,00,Total for All NAICS,2004,,,
 37,North Carolina,00,Total for All NAICS,2005,72475.0,14037.0,1.4497527961815202
 37,North Carolina,00,Total for All NAICS,2006,76952.0,13259.0,1.4921283656384343
@@ -609,8 +642,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 37,North Carolina,00,Total for All NAICS,2017,92026.0,10777.0,1.9723216108378954
 37,North Carolina,00,Total for All NAICS,2018,98708.0,11320.0,
 37,North Carolina,00,Total for All NAICS,2019,104170.0,11457.0,
-37,North Carolina,00,Total for All NAICS,2020,134688.0,12930.0,
-37,North Carolina,00,Total for All NAICS,2021,172556.0,16981.0,
+37,North Carolina,00,Total for All NAICS,2020,134704.0,12936.0,
+37,North Carolina,00,Total for All NAICS,2021,172848.0,17027.0,
+37,North Carolina,00,Total for All NAICS,2022,,,
 38,North Dakota,00,Total for All NAICS,2004,,,
 38,North Dakota,00,Total for All NAICS,2005,4215.0,,
 38,North Dakota,00,Total for All NAICS,2006,4463.0,,
@@ -627,8 +661,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 38,North Dakota,00,Total for All NAICS,2017,7447.0,,
 38,North Dakota,00,Total for All NAICS,2018,8614.0,934.0,
 38,North Dakota,00,Total for All NAICS,2019,6832.0,883.0,
-38,North Dakota,00,Total for All NAICS,2020,6565.0,810.0,
-38,North Dakota,00,Total for All NAICS,2021,7990.0,1037.0,
+38,North Dakota,00,Total for All NAICS,2020,6562.0,810.0,
+38,North Dakota,00,Total for All NAICS,2021,7987.0,1039.0,
+38,North Dakota,00,Total for All NAICS,2022,,,
 39,Ohio,00,Total for All NAICS,2004,,,
 39,Ohio,00,Total for All NAICS,2005,66476.0,12188.0,1.355429110600591
 39,Ohio,00,Total for All NAICS,2006,66884.0,11159.0,1.4563079128954208
@@ -645,8 +680,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 39,Ohio,00,Total for All NAICS,2017,85617.0,7396.0,2.0498999459167115
 39,Ohio,00,Total for All NAICS,2018,91439.0,8056.0,
 39,Ohio,00,Total for All NAICS,2019,95354.0,8057.0,
-39,Ohio,00,Total for All NAICS,2020,128318.0,9649.0,
-39,Ohio,00,Total for All NAICS,2021,155476.0,11766.0,
+39,Ohio,00,Total for All NAICS,2020,128346.0,9643.0,
+39,Ohio,00,Total for All NAICS,2021,154778.0,11731.0,
+39,Ohio,00,Total for All NAICS,2022,,,
 40,Oklahoma,00,Total for All NAICS,2004,,,
 40,Oklahoma,00,Total for All NAICS,2005,26968.0,5402.0,1.2732506479081822
 40,Oklahoma,00,Total for All NAICS,2006,27941.0,5121.0,1.3529310681507518
@@ -663,8 +699,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 40,Oklahoma,00,Total for All NAICS,2017,35668.0,3606.0,1.9525818080976152
 40,Oklahoma,00,Total for All NAICS,2018,40155.0,4158.0,
 40,Oklahoma,00,Total for All NAICS,2019,41034.0,4227.0,
-40,Oklahoma,00,Total for All NAICS,2020,45455.0,4240.0,
-40,Oklahoma,00,Total for All NAICS,2021,57650.0,5219.0,
+40,Oklahoma,00,Total for All NAICS,2020,45462.0,4224.0,
+40,Oklahoma,00,Total for All NAICS,2021,57656.0,5226.0,
+40,Oklahoma,00,Total for All NAICS,2022,,,
 41,Oregon,00,Total for All NAICS,2004,,,
 41,Oregon,00,Total for All NAICS,2005,29757.0,7524.0,1.3355954279638491
 41,Oregon,00,Total for All NAICS,2006,32813.0,7172.0,1.3996904629113218
@@ -681,8 +718,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 41,Oregon,00,Total for All NAICS,2017,38403.0,5555.0,1.9000018001800176
 41,Oregon,00,Total for All NAICS,2018,41441.0,6051.0,
 41,Oregon,00,Total for All NAICS,2019,39350.0,5495.0,
-41,Oregon,00,Total for All NAICS,2020,40299.0,5198.0,
-41,Oregon,00,Total for All NAICS,2021,49757.0,6522.0,
+41,Oregon,00,Total for All NAICS,2020,40298.0,5196.0,
+41,Oregon,00,Total for All NAICS,2021,49745.0,6540.0,
+41,Oregon,00,Total for All NAICS,2022,,,
 42,Pennsylvania,00,Total for All NAICS,2004,,,
 42,Pennsylvania,00,Total for All NAICS,2005,75978.0,14414.0,1.4334639933398086
 42,Pennsylvania,00,Total for All NAICS,2006,78317.0,13092.0,1.5231271005194011
@@ -699,8 +737,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 42,Pennsylvania,00,Total for All NAICS,2017,91614.0,9850.0,2.148040609137056
 42,Pennsylvania,00,Total for All NAICS,2018,98778.0,10725.0,
 42,Pennsylvania,00,Total for All NAICS,2019,103150.0,10696.0,
-42,Pennsylvania,00,Total for All NAICS,2020,128501.0,11984.0,
-42,Pennsylvania,00,Total for All NAICS,2021,158737.0,15125.0,
+42,Pennsylvania,00,Total for All NAICS,2020,128407.0,11990.0,
+42,Pennsylvania,00,Total for All NAICS,2021,158758.0,15154.0,
+42,Pennsylvania,00,Total for All NAICS,2022,,,
 44,Rhode Island,00,Total for All NAICS,2004,,,
 44,Rhode Island,00,Total for All NAICS,2005,7265.0,,
 44,Rhode Island,00,Total for All NAICS,2006,7314.0,,
@@ -717,8 +756,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 44,Rhode Island,00,Total for All NAICS,2017,8360.0,,
 44,Rhode Island,00,Total for All NAICS,2018,10276.0,1248.0,
 44,Rhode Island,00,Total for All NAICS,2019,8454.0,1147.0,
-44,Rhode Island,00,Total for All NAICS,2020,9061.0,1155.0,
-44,Rhode Island,00,Total for All NAICS,2021,11402.0,1513.0,
+44,Rhode Island,00,Total for All NAICS,2020,9058.0,1155.0,
+44,Rhode Island,00,Total for All NAICS,2021,11451.0,1516.0,
+44,Rhode Island,00,Total for All NAICS,2022,,,
 45,South Carolina,00,Total for All NAICS,2004,,,
 45,South Carolina,00,Total for All NAICS,2005,33456.0,6735.0,1.3783103192279138
 45,South Carolina,00,Total for All NAICS,2006,36293.0,6267.0,1.4713962023296632
@@ -735,8 +775,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 45,South Carolina,00,Total for All NAICS,2017,45535.0,4899.0,2.0573892631149215
 45,South Carolina,00,Total for All NAICS,2018,49328.0,5191.0,
 45,South Carolina,00,Total for All NAICS,2019,51857.0,5108.0,
-45,South Carolina,00,Total for All NAICS,2020,71460.0,6020.0,
-45,South Carolina,00,Total for All NAICS,2021,96280.0,8120.0,
+45,South Carolina,00,Total for All NAICS,2020,71480.0,6031.0,
+45,South Carolina,00,Total for All NAICS,2021,96195.0,8107.0,
+45,South Carolina,00,Total for All NAICS,2022,,,
 46,South Dakota,00,Total for All NAICS,2004,,,
 46,South Dakota,00,Total for All NAICS,2005,5544.0,,
 46,South Dakota,00,Total for All NAICS,2006,5834.0,,
@@ -753,8 +794,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 46,South Dakota,00,Total for All NAICS,2017,8514.0,,
 46,South Dakota,00,Total for All NAICS,2018,9732.0,1137.0,
 46,South Dakota,00,Total for All NAICS,2019,7735.0,1060.0,
-46,South Dakota,00,Total for All NAICS,2020,7701.0,1082.0,
-46,South Dakota,00,Total for All NAICS,2021,10060.0,1412.0,
+46,South Dakota,00,Total for All NAICS,2020,7705.0,1083.0,
+46,South Dakota,00,Total for All NAICS,2021,10056.0,1412.0,
+46,South Dakota,00,Total for All NAICS,2022,,,
 47,Tennessee,00,Total for All NAICS,2004,,,
 47,Tennessee,00,Total for All NAICS,2005,37258.0,7626.0,1.173611329661684
 47,Tennessee,00,Total for All NAICS,2006,40807.0,7416.0,1.2482726537216828
@@ -771,8 +813,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 47,Tennessee,00,Total for All NAICS,2017,51428.0,5451.0,1.8337791230966796
 47,Tennessee,00,Total for All NAICS,2018,57190.0,5973.0,
 47,Tennessee,00,Total for All NAICS,2019,59037.0,5894.0,
-47,Tennessee,00,Total for All NAICS,2020,75307.0,6636.0,
-47,Tennessee,00,Total for All NAICS,2021,94458.0,8668.0,
+47,Tennessee,00,Total for All NAICS,2020,75298.0,6634.0,
+47,Tennessee,00,Total for All NAICS,2021,94024.0,8645.0,
+47,Tennessee,00,Total for All NAICS,2022,,,
 48,Texas,00,Total for All NAICS,2004,,,
 48,Texas,00,Total for All NAICS,2005,175678.0,32019.0,1.3820434741872014
 48,Texas,00,Total for All NAICS,2006,187459.0,31734.0,1.4296606163736056
@@ -789,8 +832,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 48,Texas,00,Total for All NAICS,2017,277128.0,31172.0,2.0083263826510973
 48,Texas,00,Total for All NAICS,2018,300260.0,34026.0,
 48,Texas,00,Total for All NAICS,2019,306815.0,33263.0,
-48,Texas,00,Total for All NAICS,2020,388309.0,37581.0,
-48,Texas,00,Total for All NAICS,2021,495811.0,49079.0,
+48,Texas,00,Total for All NAICS,2020,388234.0,37595.0,
+48,Texas,00,Total for All NAICS,2021,495118.0,48883.0,
+48,Texas,00,Total for All NAICS,2022,,,
 49,Utah,00,Total for All NAICS,2004,,,
 49,Utah,00,Total for All NAICS,2005,29287.0,6309.0,1.5393644000634015
 49,Utah,00,Total for All NAICS,2006,34455.0,6497.0,1.5584377404956133
@@ -807,8 +851,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 49,Utah,00,Total for All NAICS,2017,47262.0,5077.0,2.0472523143588734
 49,Utah,00,Total for All NAICS,2018,49725.0,5425.0,
 49,Utah,00,Total for All NAICS,2019,49801.0,5375.0,
-49,Utah,00,Total for All NAICS,2020,50697.0,5431.0,
-49,Utah,00,Total for All NAICS,2021,63005.0,6574.0,
+49,Utah,00,Total for All NAICS,2020,50763.0,5425.0,
+49,Utah,00,Total for All NAICS,2021,62908.0,6567.0,
+49,Utah,00,Total for All NAICS,2022,,,
 50,Vermont,00,Total for All NAICS,2004,,,
 50,Vermont,00,Total for All NAICS,2005,4553.0,,
 50,Vermont,00,Total for All NAICS,2006,4558.0,,
@@ -825,8 +870,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 50,Vermont,00,Total for All NAICS,2017,5416.0,,
 50,Vermont,00,Total for All NAICS,2018,6615.0,655.0,
 50,Vermont,00,Total for All NAICS,2019,5605.0,670.0,
-50,Vermont,00,Total for All NAICS,2020,5711.0,658.0,
-50,Vermont,00,Total for All NAICS,2021,7518.0,794.0,
+50,Vermont,00,Total for All NAICS,2020,5712.0,658.0,
+50,Vermont,00,Total for All NAICS,2021,7524.0,789.0,
+50,Vermont,00,Total for All NAICS,2022,,,
 51,Virginia,00,Total for All NAICS,2004,,,
 51,Virginia,00,Total for All NAICS,2005,64355.0,12772.0,1.5030034450360164
 51,Virginia,00,Total for All NAICS,2006,68261.0,11541.0,1.5968018369292087
@@ -843,8 +889,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 51,Virginia,00,Total for All NAICS,2017,81652.0,8014.0,2.1777626653356625
 51,Virginia,00,Total for All NAICS,2018,86810.0,8335.0,
 51,Virginia,00,Total for All NAICS,2019,88267.0,8211.0,
-51,Virginia,00,Total for All NAICS,2020,107627.0,8835.0,
-51,Virginia,00,Total for All NAICS,2021,130969.0,10957.0,
+51,Virginia,00,Total for All NAICS,2020,107617.0,8836.0,
+51,Virginia,00,Total for All NAICS,2021,130815.0,10965.0,
+51,Virginia,00,Total for All NAICS,2022,,,
 53,Washington,00,Total for All NAICS,2004,,,
 53,Washington,00,Total for All NAICS,2005,49976.0,13208.0,1.2829890975166567
 53,Washington,00,Total for All NAICS,2006,52232.0,12598.0,1.3473995872360693
@@ -861,8 +908,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 53,Washington,00,Total for All NAICS,2017,62381.0,10294.0,1.890931610646979
 53,Washington,00,Total for All NAICS,2018,69186.0,11305.0,
 53,Washington,00,Total for All NAICS,2019,70785.0,10588.0,
-53,Washington,00,Total for All NAICS,2020,75785.0,10191.0,
-53,Washington,00,Total for All NAICS,2021,92599.0,12816.0,
+53,Washington,00,Total for All NAICS,2020,75797.0,10204.0,
+53,Washington,00,Total for All NAICS,2021,92806.0,12831.0,
+53,Washington,00,Total for All NAICS,2022,,,
 54,West Virginia,00,Total for All NAICS,2004,,,
 54,West Virginia,00,Total for All NAICS,2005,9142.0,,
 54,West Virginia,00,Total for All NAICS,2006,9462.0,,
@@ -879,8 +927,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 54,West Virginia,00,Total for All NAICS,2017,10319.0,,
 54,West Virginia,00,Total for All NAICS,2018,11185.0,1083.0,
 54,West Virginia,00,Total for All NAICS,2019,9959.0,986.0,
-54,West Virginia,00,Total for All NAICS,2020,10899.0,1017.0,
-54,West Virginia,00,Total for All NAICS,2021,13310.0,1226.0,
+54,West Virginia,00,Total for All NAICS,2020,10900.0,1017.0,
+54,West Virginia,00,Total for All NAICS,2021,13293.0,1231.0,
+54,West Virginia,00,Total for All NAICS,2022,,,
 55,Wisconsin,00,Total for All NAICS,2004,,,
 55,Wisconsin,00,Total for All NAICS,2005,37933.0,7082.0,1.305991245410901
 55,Wisconsin,00,Total for All NAICS,2006,38094.0,6594.0,1.3848043676069153
@@ -897,8 +946,9 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 55,Wisconsin,00,Total for All NAICS,2017,41299.0,4280.0,1.9401822429906541
 55,Wisconsin,00,Total for All NAICS,2018,45447.0,4676.0,
 55,Wisconsin,00,Total for All NAICS,2019,43844.0,4512.0,
-55,Wisconsin,00,Total for All NAICS,2020,53094.0,4912.0,
-55,Wisconsin,00,Total for All NAICS,2021,65043.0,6089.0,
+55,Wisconsin,00,Total for All NAICS,2020,53098.0,4912.0,
+55,Wisconsin,00,Total for All NAICS,2021,64899.0,6084.0,
+55,Wisconsin,00,Total for All NAICS,2022,,,
 56,Wyoming,00,Total for All NAICS,2004,,,
 56,Wyoming,00,Total for All NAICS,2005,5494.0,,
 56,Wyoming,00,Total for All NAICS,2006,6121.0,,
@@ -915,5 +965,6 @@ fips,region,naics,industry,time,ba,bf,avg_speed_annual
 56,Wyoming,00,Total for All NAICS,2017,17613.0,,
 56,Wyoming,00,Total for All NAICS,2018,19624.0,1452.0,
 56,Wyoming,00,Total for All NAICS,2019,18951.0,1469.0,
-56,Wyoming,00,Total for All NAICS,2020,24495.0,1757.0,
-56,Wyoming,00,Total for All NAICS,2021,33850.0,2308.0,
+56,Wyoming,00,Total for All NAICS,2020,24514.0,1758.0,
+56,Wyoming,00,Total for All NAICS,2021,33841.0,2308.0,
+56,Wyoming,00,Total for All NAICS,2022,,,
